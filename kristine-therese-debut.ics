@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kristine Therese's Debut//Invitation//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:kristine-therese-debut-20261205@invitation
+DTSTAMP:20261104T092815Z
+DTSTART;TZID=Asia/Manila:20261205T180000
+DTEND;TZID=Asia/Manila:20261205T230000
+SUMMARY:Kristine Therese's Eighteenth Debut
+LOCATION:Honey's Hotel & Restaurant\, Brgy. Matiao\, Mati City\, Davao Oriental\, Philippines
+DESCRIPTION:A night of dinner\, dancing\, and celebration.
+END:VEVENT
+END:VCALENDAR
